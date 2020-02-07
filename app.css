@@ -10,7 +10,7 @@
 );
 
 h1 {
-    font-weight: 200;
+    font-weight: 400;
     font-size: 70px;
     text-transform: uppercase;
     border-top: 5px solid;
@@ -20,7 +20,7 @@ body {
     background-color: #f69680;
     color: #2e1263;
     font-family: 'Source Code Pro';
-    font-weight: 200;
+    font-weight: 400;
 }
 
 img {
