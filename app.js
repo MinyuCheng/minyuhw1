@@ -7,6 +7,7 @@ const pics=[
     'imgs/kitty_wall.jpg', //5
 ]
 
+
 const button=document.querySelector('button')
 const img= document.querySelector('img')
 
