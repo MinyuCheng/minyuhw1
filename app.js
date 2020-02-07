@@ -1,10 +1,10 @@
 const pics=[
-    'imgs/kitty_bed.JPG', // 0
-    'imgs/kitty_basket.JPG', // 1
-    'imgs/kitty_door.jpg', //2
-    'imgs/kitty_laptop.jpg', //3
-    'imgs/kitty_sink.JPG', //4
-    'imgs/kitty_wall.jpg', //5
+  'imgs/kitty_bed.JPG', // 0
+  'imgs/kitty_basket.JPG', // 1
+  'imgs/kitty_door.jpg', // 2
+  'imgs/kitty_laptop.jpg', // 3
+  'imgs/kitty_sink.JPG', // 4
+  'imgs/kitty_wall.jpg', // 5
 ]
 
 const button=document.querySelector('button')
