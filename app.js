@@ -7,7 +7,6 @@ const pics=[
     'imgs/kitty_wall.jpg', //5
 ]
 
-
 const button=document.querySelector('button')
 const img= document.querySelector('img')
 
@@ -16,6 +15,6 @@ button.addEventListener('click', function() {
     if (showIndex === 6) {
         showIndex = 0
     }
-    img.src=pics[showIndex]
-    showIndex= showIndex+1
+    img.src = pics[showIndex]
+    showIndex = showIndex+1
 })
