@@ -12,9 +12,9 @@ const img= document.querySelector('img')
 
 let showIndex = 0
 button.addEventListener('click', function() {
-    if (showIndex === 6) {
-        showIndex = 0
-    }
-    img.src = pics[showIndex]
-    showIndex = showIndex+1
+  if (showIndex === 6) {
+    showIndex = 0
+  }
+  img.src = pics[showIndex]
+  showIndex = showIndex + 1
 })
